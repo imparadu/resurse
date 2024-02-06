@@ -1,3 +1,5 @@
-  src: local('Josefin Sans'),
+daca fontu folosit e ttf, merge corect doar daca specifici formatu ca mai jos:
+
+src: local('Josefin Sans'),
     url('/public/Josefin_Sans/JosefinSans-VariableFont_wght.ttf')
       format('truetype');

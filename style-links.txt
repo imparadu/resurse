@@ -1,2 +1,3 @@
 https://css-tricks.com/viewport-sized-typography/ #fonts #optimization
 https://www.smashingmagazine.com/native-css-masonry-layout-css-grid/ #masonry #grid #display
+https://prototypr.io/post/masonry-layout-css-tailwind #masonry #grid #display #tailwind

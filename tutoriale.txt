@@ -1,0 +1,3 @@
+shopify + nextjs:
+https://dev.to/iskurbanov/shopify-next-js-tailwind-css-modern-ecommerce-4475
+https://blog.logrocket.com/build-ecommerce-app-nextjs-shopify/
